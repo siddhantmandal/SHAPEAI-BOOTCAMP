@@ -1,2 +1,2 @@
 # SHAPEAI-BOOTCAMP
-Final project by Siddhant Mandal
+WEB DEVELOPMENT BOOTCAMP ------Final project by Siddhant Mandal
